@@ -1,0 +1,5 @@
+name: Online Store Tweaks Module
+description: Changes in commerce module of Drupal 8
+package: Custom
+type: module
+core: 8.x

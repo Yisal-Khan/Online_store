@@ -1,0 +1,4 @@
+<?php
+function online_store_tweaks_form_alter($form, $form_state, $form_id) {
+  dsm($form);
+}

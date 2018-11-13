@@ -1,0 +1,11 @@
+global-style:
+  version: 1.0.0
+  css:
+    theme:
+      css/online_store.css: {}
+global-js:
+  js:
+    js/custom.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery

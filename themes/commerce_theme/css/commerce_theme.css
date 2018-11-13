@@ -1,0 +1,28 @@
+.views-col {
+  margin-left: 55px;
+  border: 1px #FAEBD7 solid;
+  border-radius: 5%;
+}
+
+.views-col img {
+  border-radius: 5% 5% 0% 0%;
+}
+
+.views-field-title {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.views-field-view-commerce-product {
+  text-align: center;
+  padding-top: 30px;
+  background-color: #398439;
+  border-color: #255625;
+}
+
+.views-field-view-commerce-product span a {
+  color: #ffffff;
+  font-size: 22px;
+  margin: auto; 
+  text-decoration: none;
+}

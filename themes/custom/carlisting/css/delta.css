@@ -1,0 +1,28 @@
+.field--name-field-product-multiple-images .field--item {
+  display: inline-block;
+}
+.form-item-purchased-entity-0-attributes-attribute-size {
+  width: 20%;
+}
+.field--name-field-product-multiple-images .field--item:hover {
+  cursor: pointer;
+}
+.views-col {
+  transition: transform .2s;
+  background: #1111;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+.views-col .views-field-title .field-content {
+  font-size: 16px;
+  line-height: 1.9;
+  margin-left: 34%;
+}
+.views-col img {
+  width: 284px;
+}
+.views-col:hover {
+  -ms-transform: scale(0.9);
+  -webkit-transform: scale(0.9);
+  transform: scale(0.9); 
+}
